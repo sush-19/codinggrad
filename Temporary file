@@ -1,0 +1,10 @@
+git commands:
+git --version
+git init.
+git log
+git status
+git add 
+git commit
+git commit -m "....." filename
+git rm --cached filename
+git restore filename
